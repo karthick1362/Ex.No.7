@@ -5,7 +5,7 @@
 # Aim:
 To develop a prompt-based application using ChatGPT - To demonstrate how to create a prompt-based application to organize daily tasks, showing the progression from simple to more advanced prompt designs and their corresponding outputs.
 
-#AI Tools Required: 
+#AI Tool Required: 
 ChatGPT (GPT-5 or equivalent LLM)
 Python / Flask (optional – for interface)
 Command-line or Chat interface (for testing)
@@ -17,7 +17,6 @@ If the prompt is vague, the model gives generic results. But with detailed, cont
 This lab shows how ChatGPT can act as:
 A Daily Task Manager
 A Smart Scheduler
-A Wellness Advisor
 A Personal Assistant that adapts to user behavior
 We progressively improve prompts to achieve better control and richer outputs.
 
@@ -28,7 +27,7 @@ Procedure:
 4. Collect feedback or inputs from users and adapt responses accordingly.
 5. (Optional) Integrate basic memory to simulate preference adaptation.
 
-# Prompt Design and Outputs
+# Prompt Design & Outputs
 
 Prompt 1 – Basic Prompt
 Prompt:
@@ -39,7 +38,7 @@ Complete your project documentation.
 Review your lecture notes for tomorrow’s class.
 Call your mom in the evening.
 
-# Prompt 2 – Intermediate Prompt
+# Prompt 2  Intermediate Prompt
 
 Prompt:
 “Design a daily task manager that helps me add, remove, and prioritize tasks. Also, remind me of pending tasks at the end of the day.”
